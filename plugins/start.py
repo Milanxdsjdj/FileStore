@@ -103,7 +103,7 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚡️ ᴍᴏᴠɪᴇs', url='https://t.me/+QVewP06XCPFiYWZl'),
+                    InlineKeyboardButton('⚡️ ᴍᴏᴠɪᴇs', url='https://t.me/Hubhoues'),
                     InlineKeyboardButton('🍁 sᴇʀɪᴇs', url='https://t.me/demon_slayer_episodess')
                 ]
             ]
